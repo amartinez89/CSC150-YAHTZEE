@@ -6,6 +6,8 @@ public class Yahtzee {
 		System.out.println("hi yall");
 		System.out.println(sdgdsg);
 		System.out.println("test");
+		
+		System.out.println("Git is annoying")
 	}
 
 }
