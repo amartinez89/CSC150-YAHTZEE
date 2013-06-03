@@ -11,7 +11,6 @@ public class Die {
 
 	public int roll() {
 		return faceValue = (gen.nextInt(sideCount) + 1);
-		blarg
 	}
 
 }
