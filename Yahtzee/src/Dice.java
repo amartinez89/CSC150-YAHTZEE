@@ -17,6 +17,7 @@ public class Dice {
 		}
 		
 		return DieValues;
+		blarg
 	}
 
 }
