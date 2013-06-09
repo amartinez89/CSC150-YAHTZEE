@@ -1,14 +1,17 @@
 
-public class Yahtzee {
-
-	public static void main(String[] args) 
+/**
+ * Aaron Martinez
+ *Jun 7, 2013
+ * Yahtzee.java
+ */
+public class Yahtzee 
+{
+	@SuppressWarnings("unused")
+	public static void main(String[]args)
 	{
-		System.out.println("hi yall");
-		System.out.println(sdgdsg);
-		System.out.println("test");
+		YahtzeeScoreBoard myBoard = new YahtzeeScoreBoard();
 		
-		System.out.println("Git is annoying")
-		System.out.println("It's a pain on git");
-	}dsfasfd
-
+		
+	}
+	
 }
